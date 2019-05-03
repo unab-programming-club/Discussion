@@ -2,7 +2,7 @@
 
 We had our first meeting to organize the club!!
 
-We came to some decisions:
+We arrived to some decisions:
 
  - Meetings will be biweekly starting next friday at 12:00
  - Meetings will have a presenter with a general topic
