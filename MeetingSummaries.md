@@ -17,3 +17,13 @@ There was particular interest by the group on this subjects:
 Bruno shared his experience organizing a similar activity in ESO, more details and resources here:
   
   http://www.sc.eso.org/~bdias/pycoffee/
+
+  http://www.sc.eso.org/~jlillobo/mcmc_coffee/
+
+  https://ui.adsabs.harvard.edu/abs/2017Msngr.167...42D/abstract
+
+  https://astrom-tom.github.io/ESO_chile_python_team/build/html/index.html
+
+There are many more groups around the world doing similar stuff: Berkeley, NASA, Cambridge, USP etc etc. Some references here:
+
+  http://www.sc.eso.org/~bdias/pycoffee/refs.html
