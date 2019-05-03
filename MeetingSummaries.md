@@ -1,4 +1,4 @@
-# May 3 2018
+# May 3, 2019
 
 We had our first meeting to organize the club!!
 
