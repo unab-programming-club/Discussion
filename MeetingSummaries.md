@@ -28,5 +28,5 @@ There are many more groups around the world doing similar stuff: Berkeley, NASA,
 
   http://www.sc.eso.org/~bdias/pycoffee/refs.html
   
-  #May 10, 2019
+  # May 10, 2019
   For our second meeting, Thor presented on the javascript behind the in-browser APOSTLE visualizer (located at http://www.astro.uvic.ca/~thoroldt/H1C/visualizer/ - you need to allow pop-ups for the tool to work). The topic covered the methods behind displaying large numbers of transparent sprites of different colours effectively using GPU shaders.
