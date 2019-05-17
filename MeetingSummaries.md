@@ -1,3 +1,12 @@
+## May 17, 2019
+
+Lucas showed pygadget, a python code for reading binary GADGET snapshot file. The code and the examples shown can be found here: https://github.com/UNAB-AstroNum/quick_gadget_plot
+
+Also, we discussed the use of two python libraries:
+
+- [pandas](https://pandas.pydata.org/). A data analysis library
+- [vaex](https://github.com/vaexio/vaex). A library to visualize and explore big tabular datasets
+
 ## May 10, 2019
  
 For our second meeting, Thor presented on the javascript behind the in-browser APOSTLE visualizer (located at http://www.astro.uvic.ca/~thoroldt/H1C/visualizer/ - you need to allow pop-ups for the tool to work). The topic covered the methods behind displaying large numbers of transparent sprites of different colours effectively using GPU shaders.
