@@ -1,3 +1,9 @@
+## May 24, 2019
+
+Giorgos Vernardos (University of Groningen) explained how to use GPUs for very fast computations of chi-square values for modelling quasar microlensing.
+
+The code demostrated can be found here: https://github.com/unab-programming-club/Discussion/blob/master/data/gvernard/functions.cu
+
 ## May 17, 2019
 
 Lucas showed pygadget, a python code for reading binary GADGET snapshot file. The code and the examples shown can be found here: https://github.com/UNAB-AstroNum/quick_gadget_plot
